@@ -118,7 +118,7 @@ def metadata():
         "team_members": ["Ananya Dwivedi"],
         "model": "rule-based-deterministic-composer",
         "approach": "Context-aware deterministic rules with retrieval from category, merchant, trigger, and customer data",
-        "contact_email": "team@example.com",
+        "contact_email": "ananya10dwivedi@gmail.com",
         "version": "1.0.0",
         "submitted_at": utc_now().isoformat(),
     }
