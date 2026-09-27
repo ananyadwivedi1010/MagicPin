@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------
+# MagicPin project .gitignore
+# ---------------------------------------------------------------
+
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Secrets & local-only config (never commit real keys)
+.env
+.env.*
+judge_simulator.py
+
+# Local test-run artifacts & internal tooling
+_prepush.py
+_verify.py
+_simout.txt
+_verifyout.txt
+_*.log
+*.log
+
+# Local reference material (challenge screenshots)
+Challenge/
