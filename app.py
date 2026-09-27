@@ -115,7 +115,7 @@ def healthz():
 def metadata():
     return {
         "team_name": "MagicPin Vera Bot",
-        "team_members": ["Ananya", "AI Engineer"],
+        "team_members": ["Ananya Dwivedi"],
         "model": "rule-based-deterministic-composer",
         "approach": "Context-aware deterministic rules with retrieval from category, merchant, trigger, and customer data",
         "contact_email": "team@example.com",
