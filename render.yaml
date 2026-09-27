@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: magicpin-vera-bot
+    name: magicpin-vera-bot-ananya
     runtime: python
     plan: free
     region: singapore
